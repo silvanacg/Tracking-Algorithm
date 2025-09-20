@@ -20,7 +20,7 @@ Regions are identified and matched across timesteps using a spatial correlation 
 
 Calculates both large-scale storm properties and localized metrics within burned areas.
 
-## Post-Fire Debris Flow Event Dataset – Column Definitions
+## Peak15min_properties.csv – Column Definitions
 
 Repository – Source or citation for the dataset or observation, e.g., USGS, NASA, or a published paper.
 
